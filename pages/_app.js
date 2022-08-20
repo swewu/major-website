@@ -1,3 +1,5 @@
+import "bootstrap/dist/css/bootstrap.css";
+
 import Layout from "../components/layout";
 
 export default function MyApp({ Component, pageProps }) {
