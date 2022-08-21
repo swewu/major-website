@@ -14,13 +14,13 @@ function OnePage() {
 
 
     <div>
-      <h2 className="headding">ชื่อหลักสูตร</h2>
+      <h2 className="h22">ชื่อหลักสูตร</h2>
       <p>สาขาวิศวกรรมซอฟต์แวร์
         <br /><span> ภาษาอังกฤษ:  <span className="fw-bold">Software Engineering</span>
         </span></p>
     </div>
     <div>
-      <h2 className="headding">ปรัชญา / วัตถุประสงค์</h2>
+      <h2 className="h22">ปรัชญา / วัตถุประสงค์</h2>
       <p>หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิศวกรรมซอฟต์แวร์
         เป็นหลักสูตรที่พัฒนาขึ้นตามองค์ความรู้ด้านวิศวกรรมซอฟต์แวร์
         เพื่อสร้างบุคลากรที่มีคุณธรรมและจริยธรรม มีความรู้ความสามารถในการนำ
@@ -29,13 +29,13 @@ function OnePage() {
         ที่กำหนด</p>
     </div>
     <div>
-      <h2 className="headding">ปริญญา</h2>
+      <h2 className="h22">ปริญญา</h2>
       <p>ภาษาไทย: วิทยาศาสตรบัณฑิต สาขาวิศวกรรมซอฟต์แวร์ <br />
         ภาษาอังกฤษ: <span className="fw-bold">Bachelor of Science (Software Engineering)
         </span></p>
     </div>
     <div>
-      <h2 className="headding">แนวทางในการประกอบวิชาชีพ</h2>
+      <h2 className="h22">แนวทางในการประกอบวิชาชีพ</h2>
       <ol>
         <li>วิศวกรซอฟต์แวร์ (Software Engineer)</li>
         <li>นักเขียนโปรแกรม (Programmer)</li>

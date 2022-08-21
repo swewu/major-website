@@ -27,12 +27,12 @@ body {
     background-blend-mode: overlay, overlay, overlay, normal;
 }
 
-h1 {
+.h22 {
     font-family: 'Prompt', sans-serif;
     color: rgb(71, 71, 237);
-    font-weight: 300;
+    font-weight: bold;
     letter-spacing: 2px;
-    font-size: 48px;
+    font-size: 28px;
 }
 
 p {
