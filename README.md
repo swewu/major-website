@@ -5,3 +5,4 @@ landing page for software engineer website
 
 ## Contributor
 - :snowman: Thohirah Husaini
+- :Dr.jidtima
