@@ -1,5 +1,5 @@
 function OnePage() {
-  return <div>one</div>;
+  return <div>onee</div>;
 }
 
 export default OnePage;
