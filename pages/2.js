@@ -25,7 +25,7 @@ const indextwo = () => {
                   <span>CONTACT</span>
                   <span>US</span>
                 </div>
-                <div className="app-contact">CONTACT INFO : +66 666 666</div>
+                <div className="app-contact">CONTACT INFO :Swe@wu.ac.th</div>
               </div>
               <div className="screen-body-item">
                 <div className="app-form">
@@ -60,7 +60,7 @@ const indextwo = () => {
         }
         
         body {
-          background-image: url("https://i.pinimg.com/originals/04/fa/62/04fa627a7476f8fdbc686f6b68ee98ba.jpg");
+          background-image: url("https://olacademy.ge/wp-content/uploads/2021/11/55555.png");
           font-size: 12px;
           object-fit: cover
         }
@@ -182,8 +182,8 @@ const indextwo = () => {
         
         .app-contact {
           margin-top: auto;
-          font-size: 8px;
-          color: #888;
+          font-size: 12px;
+          color: #FFFAF0;
         }
         
         .app-form-group {
@@ -213,7 +213,7 @@ const indextwo = () => {
         }
         
         .app-form-control::placeholder {
-          color: #666;
+          color: #F8F8FF;
         }
         
         .app-form-control:focus {
@@ -238,7 +238,7 @@ const indextwo = () => {
           justify-content: center;
           align-items: center;
           margin-top: 20px;
-          color: #ffa4bd;
+          color: #FFFAF0;
           font-family: 'Roboto Condensed', sans-serif;
           font-size: 16px;
           font-weight: normal;
@@ -247,7 +247,7 @@ const indextwo = () => {
         .credits-link {
           display: flex;
           align-items: center;
-          color: #fff;
+          color: #FFFAF0;
           font-weight: bold;
           text-decoration: none;
         }
