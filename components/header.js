@@ -45,6 +45,11 @@ export default function Header() {
                 <a className="nav-link">4</a>
               </li>
             </Link>
+            <Link href="/5">
+              <li className="nav-item">
+                <a className="nav-link">5</a>
+              </li>
+            </Link>
           </ul>
           <form className="d-flex" role="search">
             <input
