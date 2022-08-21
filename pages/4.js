@@ -41,7 +41,7 @@ function FourPage() {
                   <img className="card-img rounded-0 img-fluid" style={style1} src="https://informatics.wu.ac.th/wp-content/uploads/113211861_2778064455764245_6364607256678117533_n.jpg" />
                 </div>
                 <div className="card-body btn btn-outline-secondary">
-                  <p className="text-left mb-0 fw-bold" style={style2}>นักศึกษาหลักสูตรวิศวกรรมซอฟต์แวร์ ม.วลัยลักษณ์ รับเสื้อช็อปมอบโดยประธานหลักสูตร</p>
+                  <p className="text-left mb-0 fw-bold" style={style2}>นักศึกษาหลักสูตรวิศวกรรมซอฟต์แวร์ รับเสื้อช็อปมอบโดยประธานหลักสูตร</p>
                 </div>
               </div>
             </div>
