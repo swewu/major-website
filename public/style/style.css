@@ -27,11 +27,12 @@ body {
     background-blend-mode: overlay, overlay, overlay, normal;
 }
 
-h1 {
+.h22 {
     font-family: 'Prompt', sans-serif;
-    font-weight: 300;
+    color: rgb(71, 71, 237);
+    font-weight: bold;
     letter-spacing: 2px;
-    font-size: 48px;
+    font-size: 28px;
 }
 
 p {
@@ -58,8 +59,11 @@ ol li {
     font-weight: 300;
 }
 
-.img {
-    background-image: url('../asset/SWEBanner.jpg');
-    width: 1000px;
-    height: 423px;
+#img {
+    background: url('../asset/SWEBanner.jpg');
+    height: 260px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
