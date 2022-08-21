@@ -25,7 +25,7 @@ const indextwo = () => {
                   <span>CONTACT</span>
                   <span>US</span>
                 </div>
-                <div className="app-contact">CONTACT INFO :Swe@wu.ac.th</div>
+                <div className="app-contact"><h5>CONTACT INFO</h5>:Swe@wu.ac.th<> </></div>
               </div>
               <div className="screen-body-item">
                 <div className="app-form">
@@ -59,11 +59,6 @@ const indextwo = () => {
           -moz-osx-font-smoothing: grayscale;
         }
         
-        body {
-          background-image: url("https://olacademy.ge/wp-content/uploads/2021/11/55555.png");
-          font-size: 12px;
-          object-fit: cover
-        }
         
         body, button, input {
           font-family: 'Montserrat', sans-serif;
@@ -84,7 +79,7 @@ const indextwo = () => {
         
         .screen {
           position: relative;
-          background: #3e3e3e;
+          background:#191970;;
           border-radius: 15px;
         }
         
@@ -105,7 +100,7 @@ const indextwo = () => {
           display: flex;
           align-items: center;
           padding: 10px 20px;
-          background: #4d4d4f;
+          background: #C0C0C0;
           border-top-left-radius: 15px;
           border-top-right-radius: 15px;
         }
@@ -165,7 +160,7 @@ const indextwo = () => {
           display: flex;
           flex-direction: column;
           position: relative;
-          color: #ea1d6f;
+          color: #FFD700;
           font-size: 26px;
         }
         
@@ -177,7 +172,7 @@ const indextwo = () => {
           bottom: -10px;
           width: 25px;
           height: 4px;
-          background: #ea1d6f;
+          background: #FFD700;
         }
         
         .app-contact {
@@ -213,24 +208,24 @@ const indextwo = () => {
         }
         
         .app-form-control::placeholder {
-          color: #F8F8FF;
+          color: #DCDCDC;
         }
         
         .app-form-control:focus {
-          border-bottom-color: #ddd;
+          border-bottom-color: #FFD700;
         }
         
         .app-form-button {
           background: none;
           border: none;
-          color: #ea1d6f;
+          color: #FFD700;
           font-size: 14px;
           cursor: pointer;
           outline: none;
         }
         
         .app-form-button:hover {
-          color: #b9134f;
+          color: white;
         }
         
         .credits {
