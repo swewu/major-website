@@ -1,33 +1,40 @@
 function ThreePage() {
   return <div>
     <div className="col-lg-3 col-md-4 col-sm-4">
-                    <div className=" clearfix">
-                        <h2>Thawanrat</h2>
-                        
-                        <img src="..." width="110%" className="profile-img img-responsive " />
-                        <div className="profile-label">
-                            <span className="label label-danger"><p/>Student</span>
-                        </div>
+      <h2>SWE Personnel</h2>
 
-                        
 
-                        
+    </div>
+    <div className="personnel d-flex">
+      <div className="card w-10">
+        <img src="https://www.akerufeed.com/wp-content/uploads/2018/10/korea.1.jpg" className="card-img-top" alt="..." />
+        <div className="card-body">
+          <h5 className="card-title">อาจารย์ อมลณัฐ  แก้วนก</h5>
+          <p className="card-text">ประธานหลักสูตร</p>
+          <a href="#" className="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+      <div className="card w-10">
+        <img src="https://www.akerufeed.com/wp-content/uploads/2018/10/korea.1.jpg" className="card-img-top" alt="..." />
+        <div className="card-body">
+          <h5 className="card-title">อาจารย์ ธวันรัตน์ หวังดี</h5>
+          <p className="card-text">รองประธานหลักสูตร</p>
+          <a href="#" className="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+      <div className="card w-10">
+        <img src="https://www.akerufeed.com/wp-content/uploads/2018/10/korea.1.jpg" className="card-img-top" alt="..." />
+        <div className="card-body">
+          <h5 className="card-title">อาจารย์ นลินี มีชัย</h5>
+          <p className="card-text">อาจารย์ประจำประธานหลักสูตร</p>
+          <a href="#" className="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
 
-                        <div className="profile-details">
-                            <ul className="fa-ul">
-                                <li><i className="fa-li fa fa-truck"></i>Orders: <span>456</span></li>
-                                <li><i className="fa-li fa fa-comment"></i>Posts: <span>828</span></li>
-                                <li><i className="fa-li fa fa-tasks"></i>Tasks done: <span>1024</span></li>
-                            </ul>
-                        </div>
 
-                        <div className="profile-message-btn center-block text-center">
-                            <a href="#" className="btn btn-success">
-                                <i className="fa fa-envelope"></i> Send message
-                            </a>
-                        </div>
-                    </div>
-                </div>
+
+
+    </div>
   </div>;
 }
 
