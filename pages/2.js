@@ -25,7 +25,7 @@ const indextwo = () => {
                   <span>CONTACT</span>
                   <span>US</span>
                 </div>
-                <div className="app-contact">CONTACT INFO :Swe@wu.ac.th</div>
+                <div className="app-contact"><h5>CONTACT INFO</h5>:Swe@wu.ac.th<> </></div>
               </div>
               <div className="screen-body-item">
                 <div className="app-form">
@@ -59,11 +59,6 @@ const indextwo = () => {
           -moz-osx-font-smoothing: grayscale;
         }
         
-        body {
-          background-image: url("https://olacademy.ge/wp-content/uploads/2021/11/55555.png");
-          font-size: 12px;
-          object-fit: cover
-        }
         
         body, button, input {
           font-family: 'Montserrat', sans-serif;
