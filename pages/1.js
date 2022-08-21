@@ -10,9 +10,6 @@ function OnePage() {
     <div id="img" className="my-3">
     </div>
 
-
-
-
     <div>
       <h2 className="h22">ชื่อหลักสูตร</h2>
       <p>สาขาวิศวกรรมซอฟต์แวร์
