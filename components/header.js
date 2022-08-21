@@ -27,31 +27,31 @@ export default function Header() {
             </Link>
             <Link href="/1">
               <li className="nav-item">
-                <a className="nav-link">1</a>
+                <a className="nav-link">About</a>
               </li>
             </Link>
             <Link href="/2">
               <li className="nav-item">
-                <a className="nav-link">2</a>
+                <a className="nav-link">Contract us</a>
               </li>
             </Link>
             <Link href="/3">
               <li className="nav-item">
-                <a className="nav-link">3</a>
+                <a className="nav-link">Personal</a>
               </li>
             </Link>
             <Link href="/4">
               <li className="nav-item">
-                <a className="nav-link">4</a>
+                <a className="nav-link">Activity</a>
               </li>
             </Link>
             <Link href="/5">
               <li className="nav-item">
-                <a className="nav-link">5</a>
+                <a className="nav-link">Course syllabus</a>
               </li>
             </Link>
           </ul>
-          <form className="d-flex" role="search">
+          {/* <form className="d-flex" role="search">
             <input
               className="form-control me-2"
               type="search"
@@ -61,7 +61,7 @@ export default function Header() {
             <button className="btn btn-outline-success" type="submit">
               Search
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </nav>

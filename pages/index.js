@@ -4,10 +4,10 @@ function HomePage() {
     <div>
       <h1> Welcome to Software Engineer</h1>
       <Image
-        src="/asset/welcome.jpg"
+        src="/asset/logo.jpg"
         alt="welcome"
-        width="640px"
-        height="420px"
+        width="320px"
+        height="435px"
         layout="fixed"
       ></Image>
     </div>
