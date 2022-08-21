@@ -7,3 +7,5 @@ landing page for software engineer website
 - :snowman: Thohirah Husaini
 - :Dr.jidtima
 - :Lolipopz -หิวไก่ทอด
+- :Whanchalerm -ก็มาดิค้าบ 
+
