@@ -47,7 +47,7 @@ export default function Header() {
             </Link>
             <Link href="/5">
               <li className="nav-item">
-                <a className="nav-link">Course syllabus (5)</a>
+                <a className="nav-link">Course syllabus</a>
               </li>
             </Link>
           </ul>
