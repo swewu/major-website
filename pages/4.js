@@ -9,7 +9,7 @@ function FourPage() {
 
   }
   return <div>
-    <h1 className="text-center fw-bold" style={{ color: "indigo" }}>Software Engineering Activities</h1>
+    <h1 className="text-center fw-bold shadow p-3 mb-4 bg-white rounded h1  header" style={{ color: "white" }}>Software Engineering Activities</h1>
     <hr />
     <div className="container py-5 ">
       <div className="row">
